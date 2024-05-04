@@ -1,8 +1,7 @@
 // Author: Beatriz Ceschin Antunes
-// Class: CMPSC 121
-// Project 3
-// Purpose: Program searches for parts in a txt file, then allows user to add new parts to the file. It also writes out the updated inventory information into a new file "updated_parts.txt". 
-// Sources of logic assistance: N/A
+// April 27th, 2024
+// Purpose: Program searches for parts in a txt file, then allows user to add new parts to the file. 
+// It also writes out the updated inventory information into a new file "updated_parts.txt". 
 
 #include <iostream>
 #include <fstream>
